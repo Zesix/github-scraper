@@ -1,7 +1,7 @@
 # github-scraper
 A Python script that outputs to a .txt file the clone URLs of each public repo of a given organization or user set at the top of the script.
 
-This project is released under the [Unlicense]([https://github.com/Zesix/cloc-runner/blob/master/LICENSE](https://github.com/Zesix/github-scraper/blob/main/LICENSE), meaning you can do whatever you want with it.
+This project is released under the [Unlicense](https://github.com/Zesix/github-scraper/blob/main/LICENSE), meaning you can do whatever you want with it.
 
 ## Usage ##
 
